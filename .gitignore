@@ -1,0 +1,8 @@
+.idea
+/.gitignore
+Supprimerait .gitignore
+Supprimerait .idea/
+Supprimerait chat.sql
+Supprimerait mc_post.php
+Supprimerait minichat.php
+Supprimerait session.php
